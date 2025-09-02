@@ -1,0 +1,43 @@
+/* Add these new styles to the bottom of styles.css */
+
+.exhibits-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 20px 0;
+}
+
+.exhibits-table th,
+.exhibits-table td {
+	border: 1px solid #ddd;
+	padding: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.exhibits-table th {
+	background-color: #f2f2f2;
+	font-weight: bold;
+}
+
+.exhibits-table tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+
+.exhibits-table a {
+	color: #0066cc;
+	text-decoration: none;
+}
+
+.exhibits-table a:hover {
+	text-decoration: underline;
+}
+
+.footnotes {
+	margin-top: 15px;
+	font-size: 0.9em;
+	color: #555;
+}
+
+.financial-statements {
+	margin-top: 20px;
+}
