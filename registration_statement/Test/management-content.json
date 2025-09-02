@@ -1,0 +1,89 @@
+{
+	"pageTitle": "MANAGEMENT",
+	"team": {
+		"title": "Directors, Director Nominees and Executive Officers",
+		"description": "Our directors, director nominees and executive officers are as follows:",
+		"members": [
+			{
+				"name": "Long Chen",
+				"age": 33,
+				"title": "Chief Executive Officer, Chairman and Director",
+				"bio": [
+					"Mr. Chen has been our chief executive officer and a member of our board of directors since our inception in August 2021. Mr. Chen is a successful entrepreneur and an experienced business executive manager. He has extensive experience in corporate strategy development, finance and acquisition, business operations and financial management. Before joining us, Mr. Chen founded Beijing Xiying Times Culture Group Co. Ltd. in 2019, an e-commerce based social media and entertainment online shopping company. Since 2017, Mr. Chen founded and worked as the chairman in Wuhan Love Food Agriculture Development Technology Co., Ltd., a social catering and ordering online platform company. From 2013 to present Mr. Chen founded and worked as the chairman in Jiangxi Oujiewei Technology Co., Ltd., an O2O online laundry company. Currently both Wuhan Love Food Agriculture Development Technology Co., Ltd. and Jiangxi Oujiewei Technology Co., Ltd. have no operations.",
+					"We believe that Mr. Chen is qualified to serve on our board of directors and as our chief executive officer because of his extensive knowledge and experience in capital market, business management and finance."
+				]
+			},
+			{
+				"name": "Xingyun (Tracy) Xu",
+				"age": 36,
+				"title": "Chief Financial Officer and Director",
+				"bio": [
+					"Ms. Xu has been our chief financial officer and a member of our board of directors since our inception in August 2021. Ms. Xu has over 12 years of experience in accounting, corporate finance and capital markets. Before joining us, Ms. Xu has been serving as the general manager of Shenzhen Enesoon Clean Energy Investment Limited (“Shenzhen Enesoon”), being responsible for the company’s developing and operating of build-operate-transfer (“BOT”) assets engaged in clean energy industry. From April 2016 to December 2018, Ms. Xu served in Shenzhen Enesoon Technology Co., Ltd. as its vice president in charge of company’s investment, financing and public listing projects. From 2009 to April 2016, Ms. Xu worked as an auditor manager at KPMG Huazhen LLP, a member firm of KPMG global organization of independent member firms affiliated with KPMG International Limited, in charge of audit of financial statements. She also participated in financial due diligence, coordinated with various listed intermediaries (including the company, sponsors, domestic and foreign legal advisers, industry consultants, internal control consultants and appraisers) to promote the listing progress. Ms. Xu is experienced in reviewing the prospectus, financial information disclosure, forecast, etc.",
+					"Ms. Xu has also been the director of various new energy companies in the PRC. Currently, she is the director of Tangshan Yingda Aineng Clean Energy Co. Ltd., Shandong Yonghe Aineng Clean Energy Co. Ltd., Wuzhi County Enesoon Clean Energy Co. Ltd., and Qingdao Enesoon Low-Carbon Development Co. Ltd.",
+					"Ms. Xu is a certified public account (non-practitioner) certified by Chinese Institute of Certified Public Accountants (“CICPA”) and passed the securities and fund qualification examination in China. She holds a Master in financial management from Xiamen University.",
+					"We believe that Ms. Xu is well qualified to serve on our board of directors and our chief financial officer because of her extensive experience with investment, financing and accounting matters."
+				]
+			}
+		],
+		"nominees": [
+			{
+				"name": "Michael Davidov",
+				"age": 47,
+				"title": "Independent Director Nominee*",
+				"bio": [
+					"Mr. Davidov will serve as our Director upon the effectiveness of our registration statement on Form S-1, of which this prospectus forms a part. Mr. Davidov has more than 20 years of experience in the fields of investments and corporate finance. Since 2020, Mr. Davidov served as an independent consultant...",
+					"We believe that Mr. Davidov qualifies as our director because of his experience in investments and corporate finance."
+				]
+			},
+			{
+				"name": "Kevin Vassily",
+				"age": 54,
+				"title": "Independent Director Nominee*",
+				"bio": [
+					"Mr. Vassily will serve as our Director upon the effectiveness of our registration statement on Form S-1, of which this prospectus forms a part. Mr. Vassily has extensive working experience as a senior management team member serving for private and public companies...",
+					"We believe that Mr. Vassily is well qualified to serve on our board of directors because of his extensive experience in the management of global companies and his knowledge and experience in corporate governance for public companies."
+				]
+			},
+			{
+				"name": "Yiru (Melody) Shi",
+				"age": 49,
+				"title": "Independent Director Nominee*",
+				"bio": [
+					"Ms. Shi will serve as our Director upon the effectiveness of our registration statement on Form S-1, of which this prospectus forms a part. Ms. Shi has more than 10 years of experience in financial accounting and management...",
+					"We believe that Ms. Shi qualifies as our director because of her experience in financial management and accounting."
+				]
+			}
+		],
+		"footnote": "*: Has accepted a director appointment, which will be effective upon the SEC’s declaration of effectiveness of the registration statement on Form S-1, of which this prospectus forms a part."
+	},
+	"committees": {
+		"title": "Committees of the Board of Directors",
+		"intro": "Pursuant to Nasdaq listing rules we will establish two standing committees — an audit committee in compliance with Section 3(a)(58)(A) of the Exchange Act and a compensation committee. Subject to phase-in rules and a limited exception, Nasdaq rules and Rule 10A-3 of the Exchange Act require that the audit committee of a listed company be comprised solely of independent directors, and Nasdaq rules require that the compensation committee of a listed company be comprised solely of independent directors.",
+		"auditCommittee": {
+			"title": "Audit Committee",
+			"description": [
+				"Upon the effectiveness of the registration statement of which this prospectus forms a part, we will establish an audit committee of the board of directors. Michael Davidov, Kevin Vassily and Yiru (Melody) Shi will serve as members of our audit committee, and Kevin Vassily will chair the audit committee. Under the Nasdaq listing standards and applicable SEC rules, we are required to have at least three members of the audit committee, all of whom must be independent. We believe that each of Michael Davidov, Kevin Vassily and Yiru (Melody) Shi will meet the independent director standard under Nasdaq listing standards and under Rule 10-A-3(b)(1) of the Exchange Act.",
+				"Each member of the audit committee is or will be financially literate and our board of directors has determined that Kevin Vassily qualifies as an “audit committee financial expert” as defined in applicable SEC rules and has accounting or related financial management expertise."
+			],
+			"responsibilities": [
+				"assisting board oversight of (1) the integrity of our financial statements, (2) our compliance with legal and regulatory requirements, (3) our independent auditor’s qualifications and independence and (4) the performance of our internal audit function and independent auditors;",
+				"the appointment, compensation, retention, replacement and oversight of the work of the independent auditors and any other independent registered public accounting firm engaged by us;",
+				"pre-approving all audit and non-audit services to be provided by the independent auditors or any other registered public accounting firm engaged by us and establishing pre-approval policies and procedures;",
+				"reviewing and discussing with the independent auditors all relationships the auditors have with us in order to evaluate their continued independence;",
+				"setting clear hiring policies for employees or former employees of the independent auditors;"
+			]
+		},
+		"compensationCommittee": {
+			"title": "Compensation Committee",
+			"description": [
+				"Upon the effectiveness of the registration statement of which this prospectus forms a part, we will establish a compensation committee of the board of directors. Michael Davidov, Kevin Vassily and Yiru (Melody) Shi will serve as members of our compensation committee. Under the Nasdaq listing standards and applicable SEC rules, we are required to have at least two members of the compensation committee, all of whom must be independent. Michael Davidov, Kevin Vassily and Yiru (Melody) Shi are independent and Michael Davidov chairs the compensation committee."
+			],
+			"responsibilities": [
+				"reviewing and approving on an annual basis the corporate goals and objectives relevant to our Chief Executive Officer’s compensation, evaluating our Chief Executive Officer’s performance in light of such goals and objectives and determining and approving the remuneration (if any) of our Chief Executive Officer based on such evaluation;",
+				"reviewing our executive compensation policies and plans;",
+				"producing a report on executive compensation to be included in our annual proxy statement; and",
+				"reviewing, evaluating and recommending changes, if appropriate, to the remuneration for directors."
+			]
+		}
+	}
+}

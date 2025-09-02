@@ -1,0 +1,27 @@
+<style>
+    .custom-counter {
+        list-style-type: none;
+        counter-reset: my-counter;
+        padding-left: 5%; 
+    }
+
+    /* Make the list item a positioning container and add padding for the indent */
+    .custom-counter li {
+        position: relative; /* This is crucial for positioning the ::before element */
+        padding-left: 5%; /* This creates the indent for the text */
+        margin-bottom: 8px; /* Optional: adds space between items */
+    }
+
+    /* Position the counter absolutely within the parent li's padding */
+    .custom-counter li::before {
+    counter-increment: my-counter;
+    content: "(" counter(my-counter) ") ";
+    
+    /* New positioning rules */
+    position: absolute;
+    left: 0; /* Aligns the counter to the very left of the li */
+
+    /* font-weight: bold; */
+    /* margin-right is no longer needed because padding-left handles the spacing */
+    }
+</style>

@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Alice Johnson",
+		"title": "Chief Executive Officer",
+		"bio": "Alice has over 20 years of experience leading teams and driving innovation.",
+		"imageUrl": "https://i.pravatar.cc/150?img=1"
+	},
+	{
+		"name": "Bob Williams",
+		"title": "Lead Developer",
+		"bio": "Bob is a full-stack wizard who turns coffee into code.",
+		"imageUrl": "https://i.pravatar.cc/150?img=2"
+	},
+	{
+		"name": "Charlie Brown",
+		"title": "Marketing Director",
+		"bio": "Charlie knows how to tell a story that captivates audiences.",
+		"imageUrl": "https://i.pravatar.cc/150?img=3"
+	}
+]
