@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function () {
 
 	// STEP A: Go get the ingredients (Fetch the JSON data)
-	fetch('team.json')
+	fetch('./data/team.json')
 		.then(response => response.json()) // Convert the response into JSON format
 		.then(teamMembers => { // Now we have the data, let's call it "teamMembers"
 
