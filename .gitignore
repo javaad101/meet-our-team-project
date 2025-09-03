@@ -1,6 +1,10 @@
 # Ignore macOS system files
 .DS_Store
 
+
+# Ignore text output files
+*.txt
+
 # Ignore log files
 *.log
 npm-debug.log*
