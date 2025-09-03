@@ -2,21 +2,28 @@
 <html lang="en">
 
 <head>
-	<!-- ... head content ... -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Meet Our Team</title>
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
-	<!-- 1. Add the empty nav container -->
+	<!-- NEW: Add the navigation container right after the body tag -->
 	<nav id="main-nav"></nav>
 
-	<div class="content">
-		<!-- ... the rest of the page-specific containers ... -->
-	</div>
+	<header>
+		<h1>Meet Our Amazing Team</h1>
+	</header>
 
-	<!-- 2. Link the SHARED script FIRST, then the PAGE-SPECIFIC script -->
-	<script src="js/shared.js"></script>
-	<script src="js/main.js"></script> <!-- This line will be different for each page -->
+	<main>
+		<!-- Our JavaScript will put the team member cards in here! -->
+		<div id="team-container" class="team-grid"></div>
+	</main>
+
+	<!-- UPDATED: We now have two scripts. The shared one must come first. -->
+	<script src="js/shared.js"></script> <!-- This script builds the nav bar -->
+	<script src="js/app.js"></script> <!-- This script builds the team cards -->
 </body>
 
 </html>
