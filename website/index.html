@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- ... head content ... -->
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+	<!-- 1. Add the empty nav container -->
+	<nav id="main-nav"></nav>
+
+	<div class="content">
+		<!-- ... the rest of the page-specific containers ... -->
+	</div>
+
+	<!-- 2. Link the SHARED script FIRST, then the PAGE-SPECIFIC script -->
+	<script src="js/shared.js"></script>
+	<script src="js/main.js"></script> <!-- This line will be different for each page -->
+</body>
+
+</html>

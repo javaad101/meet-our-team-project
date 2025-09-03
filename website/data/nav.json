@@ -1,0 +1,18 @@
+[
+	{
+		"text": "Home",
+		"url": "index.html"
+	},
+	{
+		"text": "About",
+		"url": "about.html"
+	},
+	{
+		"text": "Exhibits",
+		"url": "exhibits.html"
+	},
+	{
+		"text": "Management",
+		"url": "management.html"
+	}
+]
