@@ -4,26 +4,25 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Meet Our Team</title>
+	<title>Dynamic SPAC Documentation</title> <!-- A more fitting title -->
 	<link rel="stylesheet" href="assets/css/styles.css">
 </head>
 
 <body>
-	<!-- NEW: Add the navigation container right after the body tag -->
+	<!-- The navigation will still be built here by our shared script -->
 	<nav id="main-nav"></nav>
-
 	<header>
 		<h1>Meet Our Amazing Team</h1>
 	</header>
 
-	<main>
-		<!-- Our JavaScript will put the team member cards in here! -->
-		<div id="team-container" class="team-grid"></div>
-	</main>
+		<!-- This is the main content area for our entire application -->
+		<main id="app-container" class="content"></main>
+		
+	<!-- Scripts at the bottom -->
+	<script src="assets/js/shared.js"></script>
+	<script src="assets/js/main.js"></script> <!-- Our new Master Builder script -->
 
-	<!-- UPDATED: We now have two scripts. The shared one must come first. -->
-	<script src="assets/js/shared.js"></script> <!-- This script builds the nav bar -->
-	<script src="assets/js/app.js"></script> <!-- This script builds the team cards -->
+
 </body>
 
 </html>

@@ -1,18 +1,10 @@
 [
 	{
 		"text": "Home",
-		"url": "index.html"
+		"url": "#home"
 	},
 	{
 		"text": "About",
-		"url": "about.html"
-	},
-	{
-		"text": "Exhibits",
-		"url": "exhibits.html"
-	},
-	{
-		"text": "Management",
-		"url": "management.html"
+		"url": "#about"
 	}
 ]
