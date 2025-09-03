@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-	fetch('data/about.json')
+	fetch('assets/data/about.json')
 		.then(response => response.json())
 		.then(data => {
 			// Set the page title

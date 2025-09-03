@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-	fetch('data/exhibits.json')
+	fetch('assets/data/exhibits.json')
 		.then(response => response.json())
 		.then(data => {
 			document.getElementById('page-title').textContent = data.title;

@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-	fetch('data/management.json')
+	fetch('assets/data/management.json')
 		.then(response => response.json())
 		.then(data => {
 			const container = document.getElementById('management-container');
