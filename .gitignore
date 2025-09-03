@@ -11,3 +11,6 @@ npm-debug.log*
 
 # Ignore dependency folders (VERY IMPORTANT for later)
 node_modules/
+
+ # Add this new rule
+website/Other/Latex/
