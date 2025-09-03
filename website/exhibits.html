@@ -2,21 +2,29 @@
 <html lang="en">
 
 <head>
-	<!-- ... head content ... -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Exhibits</title>
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
-	<!-- 1. Add the empty nav container -->
+	<!-- 1. Add the navigation container -->
 	<nav id="main-nav"></nav>
 
 	<div class="content">
-		<!-- ... the rest of the page-specific containers ... -->
+		<header>
+			<h1 id="page-title"></h1>
+		</header>
+
+		<main id="exhibits-container">
+			<!-- JS will populate this area -->
+		</main>
 	</div>
 
-	<!-- 2. Link the SHARED script FIRST, then the PAGE-SPECIFIC script -->
+	<!-- 2. Link the shared script BEFORE the page-specific script -->
 	<script src="js/shared.js"></script>
-	<script src="js/exhibits-app.js"></script> <!-- This line will be different for each page -->
+	<script src="js/exhibits-app.js"></script>
 </body>
 
 </html>
