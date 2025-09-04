@@ -1,0 +1,27 @@
+{
+	"title": "Certain Relationships and Related Transactions",
+	"components": [
+		{
+			"type": "header",
+			"level": 1,
+			"text": "Certain Relationships and Related Transactions"
+		},
+		{
+			"type": "paragraph",
+			"text": "This is the first paragraph from the original HTML file. You would copy and paste the actual text content here, cleaning it of any HTML tags."
+		},
+		{
+			"type": "paragraph",
+			"text": "This is the second paragraph from the original HTML file. Continue this process for all the substantive content in that section."
+		},
+		{
+			"type": "header",
+			"level": 2,
+			"text": "This would be a subheading if one exists in the original file."
+		},
+		{
+			"type": "paragraph",
+			"text": "And this would be the paragraph that follows the subheading."
+		}
+	]
+}
