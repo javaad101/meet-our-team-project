@@ -5,6 +5,10 @@
 	},
 	{
 		"text": "About",
-		"url": "#about"
+		"url": "#notabout"
+	},
+	{
+		"text": "Relationships",
+		"url": "#relationships"
 	}
 ]

@@ -1,4 +1,12 @@
 // This is our Master Builder script
+// NEW: A routing map to connect URL hashes to JSON files
+// NEW: A routing map to connect URL hashes to JSON files
+const pageRoutes = {
+	'home': '.page-home',
+	'about': 'page-about',
+	'relationships': 'page-relationships'
+	// Add new pages here in the future!
+};
 
 // A simple "Router" to decide which page to load based on the URL
 function getPageIdentifier() {
@@ -11,7 +19,8 @@ function getPageIdentifier() {
 function renderPage(pageId) {
 	const appContainer = document.getElementById('app-container');
 	appContainer.innerHTML = ''; // Clear the container first
-
+	// NEW: Look up the filename in our route map
+	const fileName = pageRoutes[pageId] || 'page-home'; // Default to home
 	fetch(`assets/data/page-${pageId}.json`)
 		.then(response => {
 			if (!response.ok) {
